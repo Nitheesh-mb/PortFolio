@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Recipio",
+    "desc": "Interactive recipe finder that helps users search recipes by ingredients, cuisine, and dietary preferences with API-powered results.",
+    "image": "../assets/images/projects/foodwebsite.png",
+    "category": "mern",
+    "tech": ["React", "JavaScript", "API", "HTML", "CSS"],
+    "links": {
+      "view": "https://nitheesh-mb.github.io/Recipe/",
+      "code": "https://github.com/Nitheesh-mb/Recipe"
+    }
+  },
+  {
+    "name": "AI Code Reviewer",
+    "desc": "Full-stack application that analyzes code with Gemini AI and returns suggestions, bug detection, and improvement notes.",
+    "image": "../assets/images/projects/jspro.PNG",
+    "category": "mern",
+    "tech": ["React", "Node.js", "Express", "MongoDB", "Gemini AI"],
+    "links": {
+      "view": "https://code-reviewer-nine-psi.vercel.app/",
+      "code": "https://github.com/Nitheesh-mb/Code-reviewer"
+    }
+  },
+  {
+    "name": "CivicLine Application",
+    "desc": "Emergency resource management system with a Spring Boot REST API, React frontend, and persistent MySQL storage.",
+    "image": "../assets/images/projects/issuetrack.PNG",
+    "category": "mern",
+    "tech": ["Java", "Spring Boot", "React", "MySQL"],
+    "links": {
+      "view": "https://github.com/Nitheesh-mb/Civic-Line",
+      "code": "https://github.com/Nitheesh-mb/Civic-Line"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Responsive personal portfolio for presenting skills, projects, experience, education, and contact details.",
+    "image": "../assets/images/projects/portfolio.PNG",
+    "category": "basicweb",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "links": {
+      "view": "../index.html",
+      "code": "https://github.com/Nitheesh-mb"
+    }
+  }
+]
