@@ -4,7 +4,7 @@ A clean and responsive personal portfolio website built to showcase my skills, p
 
 ## Live Demo
 
-[View Portfolio](https://nitheesh-mb.github.io/PortFolio/)
+[View Portfolio](https:nitheesh-mb.vercel.app)
 
 ## About
 
