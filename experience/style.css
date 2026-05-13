@@ -506,6 +506,7 @@ body {
 
 .experience .content .tag h2 {
   color: #101828;
+  margin: 0;
 }
 
 .experience .content .desc h3 {
@@ -655,7 +656,9 @@ body {
 .experience .right::before {
   border-color: transparent rgba(93, 139, 255, 0.72) transparent transparent;
 }
-
+.tag h2{
+   margin: 0;
+}
 @media screen and (min-width: 769px) {
   .experience .left::before {
     border-color: transparent transparent transparent rgba(93, 139, 255, 0.72);
