@@ -2991,3 +2991,28 @@ form i,
     background-position: 200% center;
   }
 }
+/* ===== Waving Hand ===== */
+
+.wave {
+  display: inline-block;
+  transform-origin: 70% 70%;
+  animation: waveBounce 2s infinite;
+}
+
+@keyframes waveBounce {
+  0%, 100% {
+    transform: rotate(0deg) translateY(0);
+  }
+  20% {
+    transform: rotate(15deg) translateY(-3px);
+  }
+  40% {
+    transform: rotate(-10deg) translateY(0);
+  }
+  60% {
+    transform: rotate(12deg) translateY(-2px);
+  }
+  80% {
+    transform: rotate(-5deg) translateY(0);
+  }
+}
